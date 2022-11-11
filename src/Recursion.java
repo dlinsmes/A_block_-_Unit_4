@@ -31,8 +31,8 @@ public class Recursion {
     //-recursive methods are used when a large problem can be
     //broken down into smaller steps
 
-    // 2^4 = 2 * 2 * 2 * 2
-    //     = 2 * 2^3
+    //2^4 = 2 * 2 * 2 * 2
+    //    = 2 * 2^3
     //2^3 = 2 * 2^2
     //2^1 = 2 * 2^0
     //2^0 = 1
